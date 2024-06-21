@@ -1,4 +1,5 @@
-# TEG Constant TH experiment
+# Segmented TEG Constant Heat Flux experiment
+# Original Training Uni4000
 # Available on https://github.com/LorewalkerZYX/Segmented-TEG-Project.git
 
 import pandas as pd
